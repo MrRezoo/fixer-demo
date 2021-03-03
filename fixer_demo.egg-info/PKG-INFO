@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
 Name: fixer-demo
-Version: 0.1
+Version: 0.2
 Summary: Fixer service demo packages
-Home-page: #
+Home-page: https://github.com/MrRezoo/fixer-demo.git
 Author: Reza Mobaraki
 Author-email: rezam578@gmail.com
 License: MIT

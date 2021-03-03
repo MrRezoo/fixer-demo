@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="fixer-demo",
-    version="0.1",
+    version="0.2",
     description="Fixer service demo packages",
     url="https://github.com/MrRezoo/fixer-demo.git",  # Git repository
     author="Reza Mobaraki",

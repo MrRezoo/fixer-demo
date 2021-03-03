@@ -1,0 +1,6 @@
+setup.py
+fixer_demo.egg-info/PKG-INFO
+fixer_demo.egg-info/SOURCES.txt
+fixer_demo.egg-info/dependency_links.txt
+fixer_demo.egg-info/not-zip-safe
+fixer_demo.egg-info/top_level.txt

@@ -1,3 +1,3 @@
-from fixer.handler import get_rate
+from fixer.handler import get_rates
 
-__all__ = ["get_rate"]
+__all__ = ["get_rates"]
